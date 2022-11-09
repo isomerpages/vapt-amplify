@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - folder-page.md
+      - example-subfolder/XSS Test.md
       - example-subfolder/instagram embed test.md
       - example-subfolder/.keep
       - example-subfolder/Calendar Embed.md
