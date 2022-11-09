@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: <script>alert("XSS 1")</script>
-description: <script>alert("XSS 1")</script>
+title: Title
+description: Description
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -29,5 +29,6 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
