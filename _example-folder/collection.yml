@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Self Approval Test.md
       - folder-page.md
       - example-subfolder/instagram embed test.md
       - example-subfolder/.keep
