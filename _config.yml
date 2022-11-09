@@ -1,4 +1,4 @@
-title: <script>alert("XSS 1")</script>
+title: Title
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: <script>alert("XSS 1")</script>
+description: Description
 permalink: none
 baseurl: ""
 exclude:
