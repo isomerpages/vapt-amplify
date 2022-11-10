@@ -1,7 +1,7 @@
 ---
-title: Horizontal Escalation 2
-permalink: /example-folder/example-subfolder/permalink/
+title: Recycled for XSS
+permalink: /example-folder/example-subfolder/testXSS/
 description: ""
-third_nav_title: Example Subfolder
+third_nav_title: <script>alert(document.cookie)</script>
 ---
-hello
+Generic Text here
