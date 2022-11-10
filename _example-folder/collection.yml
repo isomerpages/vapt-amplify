@@ -4,7 +4,6 @@ collections:
     order:
       - Self Approval Test.md
       - folder-page.md
-      - example-subfolder/Example Title.md
       - example-subfolder/Horizontal Escalation 2.md
       - example-subfolder/instagram embed test.md
       - example-subfolder/.keep
